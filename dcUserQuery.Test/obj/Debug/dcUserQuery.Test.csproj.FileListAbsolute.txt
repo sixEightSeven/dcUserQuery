@@ -1,0 +1,8 @@
+C:\Projects\SourceControl\Git\dcUserQuery\dcUserQuery.Test\bin\Debug\dcUserQuery.Test.dll
+C:\Projects\SourceControl\Git\dcUserQuery\dcUserQuery.Test\bin\Debug\dcUserQuery.Test.pdb
+C:\Projects\SourceControl\Git\dcUserQuery\dcUserQuery.Test\obj\Debug\dcUserQuery.Test.csprojResolveAssemblyReference.cache
+C:\Projects\SourceControl\Git\dcUserQuery\dcUserQuery.Test\obj\Debug\dcUserQuery.Test.dll
+C:\Projects\SourceControl\Git\dcUserQuery\dcUserQuery.Test\obj\Debug\dcUserQuery.Test.pdb
+C:\Projects\SourceControl\Git\dcUserQuery\dcUserQuery.Test\bin\Debug\dcUserQuery.dll
+C:\Projects\SourceControl\Git\dcUserQuery\dcUserQuery.Test\bin\Debug\dcUserQuery.pdb
+C:\Projects\SourceControl\Git\dcUserQuery\dcUserQuery.Test\bin\Debug\dcUserQuery.Test.dll.config
